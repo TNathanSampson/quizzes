@@ -29,3 +29,25 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+## Answers
+
+1. `git` is a VCS or Version Control Software
+
+2. `bash` or "Born Again SHell" is a command ine terminal used to interface with the computer below the level of the operating system GUI
+
+3. cd 
+
+4. a linter is a package that changes the appearance of the code in your local development environment. 
+
+5. A syntax error is when the code entered is not valid or acceptable by the coding language being used. 
+
+6. let or const
+
+7. Node Package Manager, 
+
+8. Java Script Object Notation
+
+9. Install json package that will make changes to development environment 
+
+10. String, Number, Boolean
